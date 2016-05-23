@@ -13,6 +13,7 @@ body{
 #left-box{
 	float: left;
 	width: 200px;
+	margin: 20px 20px;
 	padding-top: 20px;
 	padding-left: 20px;
 	font-family:arial, sans-serif;
@@ -38,6 +39,8 @@ h2{
 #experiences-box{
 	background-color: white;
 	height: 400px;
+	width : 800px;
+	padding-right: 20px;
 }
 
 footer{
