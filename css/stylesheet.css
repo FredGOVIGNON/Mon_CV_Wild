@@ -1,6 +1,6 @@
 
 body{
- background-color: RGB(104, 187, 285)
+ background-color: RGB(104, 187, 285);
 }
 
 .titre_CV{
@@ -15,6 +15,31 @@ body{
 	width: 200px;
 	padding-top: 20px;
 	padding-left: 20px;
+	font-family:arial, sans-serif;
 	font-size: 12px;
 	font-weight: bold;
+	color: white !important;
+	background-color: RGB(9, 30, 45);
+}
+
+.img{
+	position: absolute;
+
+}
+
+#right-box{
+	float: right;
+}
+
+h2{
+	text-align: center;
+}
+
+#experiences-box{
+	background-color: white;
+	height: 400px;
+}
+
+footer{
+	text-align: center;
 }
